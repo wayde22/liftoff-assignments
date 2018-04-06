@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
+[Github](www.github.com/wayde22)
 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[LinkedIn](https://www.linkedin.com/in/wade-stevens-86b223161/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+[Resume](https://drive.google.com/open?id=1Cszz09jISF6BBzjoSfgyr6ujx9QS9xSQ)
