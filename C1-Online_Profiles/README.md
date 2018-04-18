@@ -7,7 +7,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-[Github](www.github.com/wayde22)
+[Github](https://www.github.com/wayde22)
 
 ### LinkedIn
 [LinkedIn](https://www.linkedin.com/in/wade-stevens-86b223161/)
